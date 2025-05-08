@@ -1,2 +1,1 @@
-# NM-project-
-Naan mudhalvan project 
+Handwritten Digits Recognization 
